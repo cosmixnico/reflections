@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+- I will be able to have version controle on this directory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+- the staging area allow the version control, we will be abe to crate commits there. all the files there will be conected and we will be able to check the differents version for each commits.
